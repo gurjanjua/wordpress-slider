@@ -1,0 +1,19 @@
+
+* {
+ margin: 0;
+ padding: 0;
+}
+
+p { margin-bottom: 1em; }
+
+ul.classic {
+ list-style: disc;
+ margin-bottom: 1em;
+ padding-left: 2em;
+}
+
+
+
+/*.dropdown-upward {
+ margin-top: 400px !important;
+}*/
